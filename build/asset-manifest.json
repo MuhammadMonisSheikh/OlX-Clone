@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f194e941.css",
+    "main.js": "/static/js/main.87ebcc94.js",
+    "static/js/453.6bfa9941.chunk.js": "/static/js/453.6bfa9941.chunk.js",
+    "static/media/vitz.webp": "/static/media/vitz.2beb8fd78596b4faa69b.webp",
+    "static/media/insigtcar.webp": "/static/media/insigtcar.ae3301a390367253ae65.webp",
+    "static/media/gr.webp": "/static/media/gr.cb33a6a0f02742a2f8b7.webp",
+    "static/media/civic.webp": "/static/media/civic.2ad57d87d233caab878e.webp",
+    "static/media/cd70.webp": "/static/media/cd70.2782806134cf5d814842.webp",
+    "static/media/xiamomob.webp": "/static/media/xiamomob.19c1dff506c50f93c70f.webp",
+    "static/media/ip14.webp": "/static/media/ip14.a9ce06aae31e4cb5626a.webp",
+    "static/media/y17mob.webp": "/static/media/y17mob.097e0f75af0a68688965.webp",
+    "static/media/s22mob.webp": "/static/media/s22mob.025471a2d2183cd6caaa.webp",
+    "static/media/kiacar.webp": "/static/media/kiacar.66f9a3983960d0b10f4c.webp",
+    "static/media/olximg.png": "/static/media/olximg.bd9d7e6ed60ff465e3c2.png",
+    "static/media/cd125.webp": "/static/media/cd125.0effad62d43e586ac5fe.webp",
+    "static/media/cb.webp": "/static/media/cb.f74d5c5ecbce2b74661e.webp",
+    "static/media/appbtn.svg": "/static/media/appbtn.5336b1eae552f34ddb58a183f816f7f1.svg",
+    "static/media/applebtn.svg": "/static/media/applebtn.64652a9be8cfdb1eeda25652d9c57a77.svg",
+    "static/media/googlbtn.svg": "/static/media/googlbtn.b5647fa4a2539b59292e3988ab0373df.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/googleicon.svg": "/static/media/googleicon.deef4917e84b0324432c8598c63aa9a8.svg",
+    "index.html": "/index.html",
+    "static/media/facebookicon.svg": "/static/media/facebookicon.1abc39a16ec4efcdcba8d90de56f94c5.svg",
+    "main.f194e941.css.map": "/static/css/main.f194e941.css.map",
+    "main.87ebcc94.js.map": "/static/js/main.87ebcc94.js.map",
+    "453.6bfa9941.chunk.js.map": "/static/js/453.6bfa9941.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f194e941.css",
+    "static/js/main.87ebcc94.js"
+  ]
+}
