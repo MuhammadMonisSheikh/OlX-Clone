@@ -1,0 +1,264 @@
+.footer__section {
+    background-color: #EBEEEF;
+    border-top: 2px solid #BCC7C9;
+}
+
+@media only screen and (max-width: 1000px) {
+    .apple__btn {
+        width: 50% !important;
+        margin-left: 0.7rem;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .apple__btn {
+        width: 60% !important;
+        margin-left: 0.7rem;
+    }
+
+    .footer__links {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr) !important;
+        grid-gap: 30px 70px !important;
+        padding: 2rem 3rem;
+    }
+
+    .footer__social {
+        transform: translateX(15rem);
+    }
+
+    .social__icon {
+        margin-left: 2rem !important;
+        transform: translateX(-5rem) !important;
+        cursor: pointer;
+    }
+
+    .social__png {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 610px) {
+    .apple__btn {
+        width: 50% !important;
+        margin-left: 0.7rem;
+    }
+
+    .footer__links {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr) !important;
+        grid-gap: 30px 60px !important;
+        padding: 2rem 3rem;
+    }
+
+    .footer__social {
+        transform: translateX(13rem);
+    }
+
+    .social__icon {
+        margin-left: 2rem !important;
+        transform: translateX(-5rem) !important;
+        cursor: pointer;
+    }
+
+    .social__png {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .apple__btn {
+        width: 40% !important;
+        margin-left: 0.7rem;
+    }
+
+    .footer__links {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        grid-gap: 30px 60px !important;
+        padding: 2rem 3rem;
+    }
+
+    .footer__social {
+        transform: translateX(19rem);
+    }
+
+    .social__icon {
+        margin-left: 2rem !important;
+        transform: translateX(-5rem) !important;
+        cursor: pointer;
+    }
+
+    .social__png {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .apple__btn {
+        width: 40% !important;
+        margin-left: 0.7rem;
+    }
+
+    .footer__links {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        grid-gap: 30px 50px !important;
+        padding: 2rem 3rem;
+    }
+
+    .footer__social {
+        transform: translateX(13rem);
+    }
+
+    .social__icon {
+        margin-left: 1.5rem !important;
+        transform: translateX(-5rem) !important;
+        cursor: pointer;
+    }
+
+    .social__png {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer__links-sub p {
+        font-size: 1.4rem;
+        font-weight: 800 !important;
+    }
+}
+
+@media only screen and (max-width: 330px) {
+    .apple__btn {
+        width: 40% !important;
+        margin-left: 0.7rem;
+    }
+
+    .footer__links {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        grid-gap: 30px 10px !important;
+        padding: 2rem 3rem;
+    }
+
+    .footer__social {
+        transform: translateX(10rem);
+    }
+
+    .social__icon {
+        margin-left: 1.5rem !important;
+        transform: translateX(-5rem) !important;
+        cursor: pointer;
+    }
+
+    .social__png {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer__links-sub p {
+        font-size: 1.4rem;
+        font-weight: 800 !important;
+    }
+}
+
+
+
+.footer__links {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 20px;
+    padding: 2rem 3rem;
+}
+
+.footer__last {
+    text-align: right;
+    background-color: #002F34;
+    color: #fff;
+    padding: 2rem 4rem;
+    width: 100%;
+    font-size: 1.4rem;
+}
+
+.footer__section p {
+    margin-bottom: 10px;
+    font-weight: 700;
+    color: #002F34;
+}
+
+.footer__section li {
+    list-style: none;
+    margin-bottom: 10px;
+    color: #002F34;
+    font-size: 1.4rem;
+    cursor: pointer;
+    display: block;
+}
+
+.apple__btn {
+    width: 40%;
+    margin-left: 0.7rem;
+}
+
+.apple__buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateX(-4.5rem);
+}
+
+.footer__link {
+    text-decoration: none;
+    color: #002F34;
+    display: block;
+}
+
+.social__links {
+    margin-bottom: 2rem;
+}
+
+.twit__icon {
+    padding: 1rem;
+    color: #002F34;
+    border: 1px solid #002F34;
+    border-radius: 50%;
+    font-size: 1.5rem;
+}
+
+.fb__icon {
+    padding: 1rem 1.2rem;
+    color: #002F34;
+    border: 1px solid #002F34;
+    border-radius: 50%;
+    font-size: 1.5rem;
+}
+
+.you__icon {
+    padding: 1rem;
+    color: #002F34;
+    border: 1px solid #002F34;
+    border-radius: 50%;
+    font-size: 1.5rem;
+}
+
+.inst__icon {
+    padding: 1rem 1.1rem;
+    color: #002F34;
+    border: 1px solid #002F34;
+    border-radius: 50%;
+    font-size: 1.5rem;
+}
+
+.social__icon {
+    margin-left: 1rem;
+    transform: translateX(-2rem);
+    cursor: pointer;
+}

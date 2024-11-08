@@ -1,0 +1,133 @@
+
+
+.signup__cont {
+    margin-top: 20rem;
+    width: 35%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4rem;
+}
+
+.signup__logo {
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+@media only screen and (max-width: 1050px) {
+    .signup__cont {
+        margin-top: 20rem;
+        width: 40%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 4rem;
+    }    
+}
+
+@media only screen and (max-width: 800px) {
+    .signup__cont {
+        margin-top: 27rem;
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 4rem;
+    }    
+}
+
+@media only screen and (max-width: 600px) {
+    .signup__cont {
+        margin-top: 27rem;
+        width: 60%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 4rem;
+    }    
+}
+
+@media only screen and (max-width: 450px) {
+    .signup__cont {
+        margin-top: 27rem;
+        width: 75%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 4rem;
+    }    
+
+    .signup__logo {
+        width: 40%;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .signup__cont {
+        margin-top: 27rem;
+        width: 87%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 4rem;
+    }    
+
+    .signup__logo {
+        width: 40%;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+}
+
+.login__email {
+    border-radius: 5px;
+    border: 2px solid #23E5DB;
+    width: 100%;
+    outline: none;
+    font-size: 1.8rem;
+    color: #002F34;
+    padding: 1rem 1.5rem;
+}
+
+.login__button {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.login__btn {
+    background-color: #002F34;
+    color: #fff;
+    font-size: 1.8rem;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 1rem;
+    width: 70%;
+}
+
+.login__text {
+    color: #002F34;
+    font-size: 2.5rem;
+    margin-bottom: 5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.login__label {
+    color: #002F34;
+    font-size: 1.6rem;
+    font-weight: 700;
+    position: relative;
+    top: -0.5rem;
+}
+
+.login__group {
+    margin-bottom: 3rem;
+}
+
+.create__text {
+    font-size: 1.5rem;
+    text-align: center;
+}

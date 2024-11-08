@@ -1,0 +1,119 @@
+
+.cart {
+    margin-top: 20rem;
+    margin-bottom: 4rem;
+}
+
+.cart__cont {
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 1rem;
+}
+
+#cart__cart {
+    overflow-y: hidden !important;
+}
+
+.cart__secs {
+    min-width: 79.5% !important;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 3rem;
+    margin-top: 7rem;
+}
+
+.cont__btn {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.cont__button {
+    padding: 0.8rem 5rem;
+}
+
+.quan__boxs {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid lightgrey;
+    padding: 1.5rem 0.8rem;
+    border-radius: 3px;
+    width: 13%;
+    margin-top: 1rem;
+}
+
+.incre__btns {
+    cursor: pointer;
+    color: #002F34;
+    font-size: 1.4rem;
+}
+
+.decre__btns {
+    cursor: pointer;
+    color: #747474;
+    font-size: 1.4rem;
+}
+
+.sub__text {
+    margin-bottom: 2rem;
+    font-size: 1.8rem;
+}
+
+.quantity__text {
+    font-size: 1.4rem;
+}
+
+.it__cont {
+    background-color: #000;
+    padding: 6.5px 14px;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 15px;
+}
+
+.cart__heads {
+    background-color: #fff;
+    position: fixed;
+    top: 20rem;
+    left: 2.5rem;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 77.5%;
+    padding: 2rem 2rem;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-bottom: 2rem;
+}
+
+.cart__head {
+    margin-bottom: 4rem;
+}
+
+.shop__text {
+    color: #002F34;
+    font-size: 1.8rem;
+}
+
+.item__text {
+    font-size: 1.8rem;
+    color: #002F34;
+}
+
+.cart-name {
+    font-size: 1.4rem;
+}
+
+.cart-price {
+    font-size: 1.4rem;
+}
+
+.cart-cat {
+    font-size: 1.4rem;
+    margin: 1rem 0;
+}
+
+.cart-remove {
+    font-size: 1.4rem;
+}
